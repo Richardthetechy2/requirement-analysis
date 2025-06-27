@@ -114,6 +114,7 @@ In a booking system, users should be able to book a property **within minutes**,
 ---
 ## Use Case Diagrams.
 ![use_case_diagram](./alx-booking-uc.png)
+---
 **✅ What Is a Use Case?**
 A use case is a description of how a user (actor) interacts with a system to achieve a specific goal. It focuses on what the system does from the user's point of view.
 
